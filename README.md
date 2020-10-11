@@ -10,7 +10,7 @@
    - Paste the question in comments and the solution underneath.
    - Create a Pull Request(PR) to add your code to the repository.
    
-    Example - [https://github.com/5AbhishekSaxena/competitive-coding/blob/master/hackerrank/Simple%20Array%20Sum.java](https://github.com/5AbhishekSaxena/competitive-coding/blob/master/hackerrank/Simple%20Array%20Sum.java)
+    Example: [Example Link](https://github.com/5AbhishekSaxena/competitive-coding/blob/master/hackerrank/Simple%20Array%20Sum.java)
 
   ## Contributing
   - For contributions in this repository, please read [Contribution guidelines for this project](CONTRIBUTING.md) first. (Please pull the changes from this repo if you have already forked the repository and are facing conflicts)
